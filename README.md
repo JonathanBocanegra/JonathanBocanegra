@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JonathanBocanegra
+- 👀 I’m interested in Mathematics & Computer Science
+- 🌱 I’m currently in my last year at the University of California, San Diego
+- 📫 I can be reached via linkedIn: https://linkedin.com/in/jbgomez0
