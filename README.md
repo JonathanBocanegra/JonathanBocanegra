@@ -1,4 +1,4 @@
 - 👋 Hi, I’m `@JonathanBocanegra`
-- 👀 I recently got my `B.S. Mathematics - Computer Science` from the `University of California, San Diego`
-- 🌱 I’m currently a working analyst in `SF,CA`
+- 👀 I have a `B.S. Mathematics - Computer Science` from the `University of California, San Diego`
+- 🌱 I’m currently a Software Developer in `SF,CA`
 - 📫 I can be reached via linkedIn: https://linkedin.com/in/jbgomez0
