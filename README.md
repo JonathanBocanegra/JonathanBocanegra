@@ -1,5 +1,5 @@
 - 👋 Hi, I’m `@JonathanBocanegra`
 - 👀 I have a `B.S. Mathematics - Computer Science` from the `University of California, San Diego`
-- 🌱 I have 4+ years as a Software Engineer
+- 🌱 I have 4+ years experience as a Software Engineer
 - 🚀 Currently, I am exploring entrepreneurship opportunities
 - 📫 I can be reached via [LinkedIn](https://linkedin.com/in/jbgomez0) or [email](mailto:jonathanbocanegragomez@gmail.com)
